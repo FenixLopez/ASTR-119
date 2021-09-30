@@ -1,0 +1,40 @@
+#Session 2 Practice Python Programs
+
+#Program 1
+# This is a python comment
+
+'''
+This is a 
+multi-line
+python comment
+Using the single quotation mark
+''' 
+
+# a
+# b
+# c
+
+#Program 2
+import library as alias   #imports functions for
+						  #us to use
+
+def main(): 			#end functions with a ":"
+# do some stuff
+
+#rest of the program continues from here
+
+#if the main() function exists, run it
+if __name__ == "__main__":			#if the main function exists, will run program
+	main()					#must call the main program XD
+
+#yo can do other stuff down here
+
+
+# Using pip to install a library
+'''
+Mac OSX/Linus:
+$ pip3 install [library name] 
+
+$: dont type! means type into command prompt
+'''
+# $ sign means to type in the command line, don't actually include
