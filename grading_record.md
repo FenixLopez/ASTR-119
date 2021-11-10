@@ -17,5 +17,10 @@ HW 2 :
     ``dictionaries.py``  
     ``exceptions.py`` 
     ``useful_modules.py`` 
-HW 3 : Graded! Go check your grade on canvas.
+#<<<<<<< graded_hw_4
 
+#HW 4 : Graded! Go check your grade on canvas.
+#=======
+#HW 3 : Graded! Go check your grade on canvas.
+
+#>>>>>> main
