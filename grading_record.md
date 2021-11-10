@@ -14,8 +14,13 @@ HW 2 :
     ``data_types.py`` 
     ``data_types_continued.py`` 
     ``python_arrays.py`` 
-    ``dictionaries.py`` 
+    ``dictionaries.py``  
     ``exceptions.py`` 
     ``useful_modules.py`` 
+#<<<<<<< graded_hw_4
 
-HW 4 : Graded! Go check your grade on canvas.
+#HW 4 : Graded! Go check your grade on canvas.
+#=======
+#HW 3 : Graded! Go check your grade on canvas.
+
+#>>>>>> main
